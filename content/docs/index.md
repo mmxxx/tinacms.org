@@ -1,8 +1,9 @@
 ---
-title: Tina is Not a CMS
+title: Tina is Not a1 CMS
 id: introduction
 prev: null
 next: /docs/getting-started/how-tina-works
+last_edited: '2021-01-12T13:07:10.101Z'
 ---
 
 Tina is a **lightweight but powerful toolkit** for creating a content editing interface with JavaScript components. Tina surfaces superpowers for developers to create an intuitive UI for real-time content editing, built directly into their website.
